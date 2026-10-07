@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/sporttery", "destination": "/api/sporttery" },
+    { "source": "/deepseek", "destination": "/api/deepseek" }
+  ]
+}
